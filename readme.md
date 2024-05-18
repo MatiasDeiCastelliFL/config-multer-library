@@ -1,6 +1,8 @@
 
 ```html
-1.Invocar a la funcion como MiddlewareS
+Instrucción:
+
+1.Invocar a la funcion como Middlewares
 const multer = require("multer");
 const path = require("path");
 
