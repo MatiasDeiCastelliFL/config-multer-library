@@ -1,5 +1,4 @@
 
-```
 Instrucción:
 
 1.Invocar a la funcion como Middlewares
@@ -20,24 +19,3 @@ const multerConfig = {
 };
 
 module.exports = { multerConfig };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
