@@ -1,4 +1,6 @@
+
 ```html
+1.Invocar a la funcion como MiddlewareS
 const multer = require("multer");
 const path = require("path");
 
@@ -16,5 +18,24 @@ const multerConfig = {
 };
 
 module.exports = { multerConfig };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```
