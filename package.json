@@ -1,6 +1,6 @@
 {
   "name": "config_multer",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
   "author": "Matias Marcelos Dei Castelli <matiasdeicastelli5@gmail.com>",
   "main": "dist-node/index.js",
