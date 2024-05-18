@@ -1,7 +1,6 @@
 {
   "name": "config_multer",
   "version": "1.0.1",
-  "type": "module",
   "license": "MIT",
   "author": "Matias Marcelos Dei Castelli <matiasdeicastelli5@gmail.com>",
   "main": "dist-node/index.js",
@@ -10,7 +9,7 @@
     "url": "https://github.com/MatiasDeiCastelliFL/config-multer-library.git"
   },
   "scripts": {
-    "build": "babel src -d dist-node",
+    "build": "babel src -d dist-node ",
     "start": "node src/index.js"
   },
   "keywords": [],
@@ -20,6 +19,7 @@
   "devDependencies": {
     "@babel/cli": "^7.24.5",
     "@babel/core": "^7.24.5",
-    "@babel/preset-env": "^7.24.5"
+    "@babel/preset-env": "^7.24.5",
+    "typescript": "^5.4.5"
   }
 }
